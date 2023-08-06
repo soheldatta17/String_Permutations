@@ -15,3 +15,4 @@ Output:
 AAA AAA AAA AAA AAA AAA
 
 Explanation: There are total 6 permutations, as given in the output.
+https://t.bkit.co/l_64cf67db9ed52
